@@ -1,6 +1,5 @@
 package com.example.springbootstudy.controller;
 
-
 import com.example.springbootstudy.entity.User;
 import com.example.springbootstudy.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
